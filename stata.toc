@@ -1,0 +1,3 @@
+v 3
+d Stata package for fitting flexible parametric models on the log hazard scale
+p strcs
