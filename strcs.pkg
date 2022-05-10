@@ -6,5 +6,5 @@ f strcs/strcs.ado
 f strcs/strcs_pred.ado
 f strcs/strcs.sthlp
 f strcs/strcs_postestimation.sthlp
-f strcs/lstrcs.mlib
+f lstrcs.mlib
 e
